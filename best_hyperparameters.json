@@ -1,0 +1,1 @@
+{"hidden_size_GRU": 32, "hidden_size_RNN": 96, "num_residual_blocks": 2, "L2_regularizer": 0.00010277817095870274, "dropout_rate": 0.4, "learning_rate": 0.0007860854030984577}
